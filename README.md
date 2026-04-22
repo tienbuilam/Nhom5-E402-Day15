@@ -2,6 +2,7 @@
 Tổng kết phase 1
 
 Worksheet: https://docs.google.com/document/d/114t3mBUpMKfk4hdDDwwI4_ls0-uaTrvX8SnoZ6FZLEI/edit?usp=sharing
+
 Slides: https://docs.google.com/presentation/d/1aCBz9NzEcE0k49fHbws1Pcf2IuI59zWF4V2VlYiOjbw/edit?usp=sharing
 
 Chấm điểm nhóm:
