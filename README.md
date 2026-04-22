@@ -42,8 +42,7 @@
 
   > **Câu hỏi:** Các thông tin nhạy cảm lưu trên cloud tuy đã được mask nhưng liệu có chắc chắn hay an toàn không?
 
-  > **Trả lời:** Chưa chắc chắn vì có thể bị chiếm quyền unmask, hoặc nếu thông tin được static mask thì sẽ khó cho việc truy vấn,  
-  sử dụng lại.
+  > **Nhóm tự trả lời:** Chưa chắc chắn vì có thể bị chiếm quyền unmask, hoặc nếu thông tin được static mask thì sẽ khó cho việc truy vấn, sử dụng lại.
 
   #### 🔜 Kế hoạch Phase tiếp theo
   Cải thiện phần kiến trúc triển khai
@@ -85,7 +84,7 @@
 
   > **Câu hỏi:** Tại sao phần maintain và ops chiếm phần nhiều nhất trong cost?
 
-  > **Trả lời:** Bởi vì phần maintain và ops là tổng các chi phí của các chi phí khác gộp lại.
+  > **Nhóm tự trả lời:** Bởi vì phần maintain và ops là tổng các chi phí của các chi phí khác gộp lại.
 
   #### 🔜 Kế hoạch Phase tiếp theo
   Không có
